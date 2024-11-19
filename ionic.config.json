@@ -1,0 +1,7 @@
+{
+  "name": "cardView",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
